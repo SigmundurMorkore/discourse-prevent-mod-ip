@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    discourse_prevent_mod_ip_enabled: "Enable DiscoursePreventModIP plugin"
